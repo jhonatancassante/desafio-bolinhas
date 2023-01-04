@@ -9,10 +9,7 @@ function main() {
         msg.style.visibility = 'hidden';
 
         if (!el.classList.contains('buttons')) {
-            const size = sizeRandom();
-            const sizeMidle = halfSize(size);
-            const color = colorRandom();
-            const ballObject = createBallObject(idCounter, e.pageX, e.pageY, size, sizeMidle, color);
+            const ballObject = createBallObject(idCounter, e.pageX, e.pageY);
 
             createBall(ballObject);
             undoStack.push(ballObject);
@@ -39,8 +36,11 @@ function main() {
         }
     });
 
-    function createBallObject(id, x, y, size, sizeMidle, color) {
+    function createBallObject(id, x, y) {
         const idBall = `ball-${id}`;
+        const size = sizeRandom();
+        const sizeMidle = halfSize(size);
+        const color = colorRandom();
         return { idBall, x, y, size, sizeMidle, color };
     }
 
