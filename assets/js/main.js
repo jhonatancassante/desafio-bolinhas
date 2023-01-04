@@ -2,15 +2,11 @@ function main() {
     const undoStack = [];
     const redoStack = [];
     let idCounter = 0;
-    let firstClick = false;
 
     document.addEventListener('click', (e) => {
         const el = e.target;
-
-        if (!firstClick) {
-            const msg = document.querySelector('#start-msg');
-            msg.style.visibility = 'hidden';
-        }
+        const msg = document.querySelector('#start-msg');
+        msg.style.visibility = 'hidden';
 
         if (!el.classList.contains('buttons')) {
             const size = sizeRandom();
