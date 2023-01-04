@@ -1,6 +1,8 @@
 # Desafio da Bolinhas na Tela
 
-Desafio feito com base em um popular Interview Challenge. Fiz o desafio utilizando apenas HTML, CSS e JavaScript como forma de aprimorar meu aprendizado na linguagem.
+Desafio feito com base em um popular Interview Challenge.
+
+Fiz o desafio utilizando apenas HTML, CSS e JavaScript como forma de aprimorar meu aprendizado na linguagem.
 
 ## Sobre o Desafio:
 
