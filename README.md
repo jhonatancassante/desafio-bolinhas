@@ -1,4 +1,4 @@
-# Desafio da Bolinhas na Tela
+# Desafio 001 - Bolinhas na Tela
 
 Desafio feito com base em um popular Interview Challenge.
 
