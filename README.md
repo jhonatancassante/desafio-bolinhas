@@ -26,4 +26,4 @@ Para visualizar a página clique [AQUI](https://jhonatancassante.github.io/desaf
 
 ## Pré Visualização
 
-![Preview](/preview.jpg)
+![Preview](/assets/img/preview.jpg)
