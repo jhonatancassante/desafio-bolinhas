@@ -22,7 +22,7 @@ Para visualizar a página clique [AQUI](https://jhonatancassante.github.io/desaf
 
 ## Licença
 
-[![MIT License](https://img.shields.io/github/license/jhonatancassante/startse-desafio-01?style=plastic)](https://github.com/jhonatancassante/startse-desafio-01/blob/main/LICENSE.md)
+[![MIT License](https://img.shields.io/github/license/jhonatancassante/startse-desafio-01?style=plastic)](https://github.com/jhonatancassante/desafio-bolinhas/blob/main/LICENSE.md)
 
 ## Pré Visualização
 
